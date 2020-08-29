@@ -1,5 +1,5 @@
-const NAME = "Developer Name"
-const SITE_NAME = "Developer Name"
+const NAME = "Sibnarayan"
+const SITE_NAME = "Sibnarayan"
 const DESCRIPTION = "A description" // Alternative Site title for SEO
 const MINI_BIO = `
 <strong>${NAME}</strong> is a developer and this is a short bio.
